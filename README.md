@@ -7,10 +7,14 @@ The model was trained on Kaggle with a GPU T4 x2, leveraging the computational p
 ### Artistic Style Transfer Images
 
 Target Image
-![Target Image 1](images/target/banaras.jpg)
+
+<img src="images/target/banaras.jpg" alt="Target Image" width="400">
 
 Style reference Image
-![Style Image 2](images/styles/style2.jpg)
+
+<img src="images/target/style2.jpg" alt="Style Image" width="400">
 
 Generated Image
-![Generated Image ]()
+
+<img src="images/generated_result_at_iteration_399.png" alt="Generated Image" width="400">
+
