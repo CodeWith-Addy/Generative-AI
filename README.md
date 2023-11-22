@@ -12,7 +12,7 @@ Target Image
 
 Style reference Image
 
-<img src="images/target/style2.jpg" alt="Style Image" width="400">
+<img src="images/styles/style2.jpg" alt="Style Image" width="400">
 
 Generated Image
 
